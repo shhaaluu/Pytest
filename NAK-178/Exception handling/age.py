@@ -1,5 +1,5 @@
-a = 10
-b = 2
+a = int(input())
+b = int(input())
 
 try:
     print("resource open")
