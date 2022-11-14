@@ -1,3 +1,0 @@
-All tasks that introduce a secure software development life cycle to development teams are included in application security shortly known as AppSec.
-Application security is the process of developing, adding, and testing security features within applications to prevent security vulnerabilities against threats such as unauthorized access and modification.
- It covers the entire application life cycle, including requirements analysis, design,
