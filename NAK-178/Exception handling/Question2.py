@@ -11,6 +11,5 @@ try:
 
 except ZeroDivisionError:
     print("ZeroDivisionError occurred and handled")
-except NameError:
-    print("NameError occurred and handled")
+
     
