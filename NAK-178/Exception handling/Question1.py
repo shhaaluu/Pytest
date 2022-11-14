@@ -1,4 +1,5 @@
-print("write an interactive calculator! User input is assumed to be a formula that consist of a number, an operator (at least + and -), and another number, separated by white space (e.g. 1 + 1). Split user input using str.split(), and check whether the resulting list is valid")
+''' write an interactive calculator! User input is assumed to be a formula that consist of a number, an operator (at least + and -), and another number, 
+separated by white space (e.g. 1 + 1). Split user input using str.split(), and check whether the resulting list is valid")'''
 
 class FormulaError(Exception):
     pass
